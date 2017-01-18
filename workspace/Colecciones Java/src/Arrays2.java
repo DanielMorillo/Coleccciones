@@ -32,11 +32,11 @@ public class Arrays2 {
 		}
 		System.out.println("______________");
 		System.out.println("______________");
-		//ahora creamos la coleccion bidemensional y la inicializamos
+		//ahora creamos la coleccion bidemensional y la inicializamos.
 		int[][][] coleccionTridimensionalEnteros = {
 				{	{1, 2}, {3, 4}	},
 				{	{5, 6}, {7, 8}	},
-				{	{9, 10}, {10, 11}	},
+				{	{9, 10}, {11, 12}	},
 		};
 		//recorrer
 		for(int[][] is : coleccionTridimensionalEnteros){

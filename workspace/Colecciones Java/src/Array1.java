@@ -11,7 +11,7 @@ public class Array1 {
 		for(int i = 0; i < coleccionEnteros.length; i++) {
 			System.out.println(coleccionEnteros[i]);
 		}
-		//otra forma de recorrer la colección
+		//otra forma de recorrer la colección.
 		for (int i : coleccionEnteros) {
 			System.out.println(i);
 		}
